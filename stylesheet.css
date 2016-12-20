@@ -1,5 +1,15 @@
+.schrift{
+float: center;
+}
+
+.col-md-12{
+ background-color:#505050 ;
+ 
+}
+
 .col-md-3{
  background-color: #96FF0B ;
  font-family: arial;
  float: left;
 }
+
