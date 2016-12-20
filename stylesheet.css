@@ -17,7 +17,8 @@ float: center;
  float: center;
 }
 
-.col-md-3-right{
+.pic{
  background-color: #96330B ;
  float: right;
+ width: col-md-3
 }
