@@ -4,8 +4,7 @@ float: center;
 
 .col-md-12{
  background-color:#505050 ;
- 
-}
+ }
 
 .col-md-3{
  background-color: #96FF0B ;
@@ -13,3 +12,12 @@ float: center;
  float: left;
 }
 
+.col-md-6{
+ background-color: #10056A ;
+ float: center;
+}
+
+.col-md-3{
+ background-color: #96330B ;
+ float: right;
+}
