@@ -174,3 +174,36 @@ ul.style3 .first {
 	padding-top: 0px;
 	border-top: none;
 }
+#header
+	{
+		position: relative;
+		text-align: center;
+		background: url(../images/banner.jpg) no-repeat center;
+		background-size: cover;
+	}
+
+
+	#page {
+		padding: 5em 0em;
+		background: #FFF
+	}
+	
+	#content header
+	{
+		margin-bottom: 2em !important;
+	}
+
+	#content header h2
+	{
+		line-height: 1.2em;
+		font-size: 3em;
+	}
+
+	#content
+	{
+	}
+	
+	#footer
+	{
+		padding: 5em 0em;
+	}
