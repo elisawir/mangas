@@ -196,17 +196,12 @@ ul#menu li a:hover
 .sidebar_top
 { width: 222px;
   height: 14px;
-  background: yellow;}
-
-.sidebar_base
-{ width: 222px;
-  height: 14px;
-  background: black;}
+  background: #ffffff;}
 
 .sidebar
 { float: left;
-  background: green;
-  width: 3;
+  background: #ffffff;
+  width: 20%;
   padding: 0;
   margin: 0 0 16px 0;}
 
