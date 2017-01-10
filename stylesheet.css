@@ -196,22 +196,22 @@ ul#menu li a:hover
 .sidebar_top
 { width: 222px;
   height: 14px;
-  background: transparent url(side_top.png) no-repeat;}
+  background: yellow;}
 
 .sidebar_base
 { width: 222px;
   height: 14px;
-  background: url(side_base.png) no-repeat;}
+  background: black;}
 
 .sidebar
 { float: left;
   background: green;
-  width: 222px;
+  width: 3;
   padding: 0;
   margin: 0 0 16px 0;}
 
 .sidebar_item
-{ background: url(side_back.png) repeat-y;
+{ background: red;
   padding: 0 15px;
   width: 192px;}
 
