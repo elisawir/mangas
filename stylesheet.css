@@ -90,6 +90,21 @@ ol li
   text-align: center;
   margin: 20px auto;}
 
+#col-sm-4 
+{float: center;
+ background: red;
+ text-align: center; 
+}
+
+
+
+
+
+
+
+
+
+
 #main, #logo, #menubar, #site_content, #footer
 { margin-left: auto; 
   margin-right: auto;}
