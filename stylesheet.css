@@ -204,7 +204,8 @@ ul#menu li a:hover
   background: url(side_base.png) no-repeat;}
 
 .sidebar
-{ float: right;
+{ float: left;
+  background: green;
   width: 222px;
   padding: 0;
   margin: 0 0 16px 0;}
