@@ -64,8 +64,14 @@ ol li
   text-align: center;
   margin: 20px auto;}
 
-.col-sm-4 
-{float: center;
+.col-sm-8 
+{float: left;
+ background: red;
+ text-align: center; 
+}
+
+.col-sm-4
+{float: right;
  background: red;
  text-align: center; 
 }
