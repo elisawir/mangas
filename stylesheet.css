@@ -140,6 +140,38 @@ ul#menu
 { float: right;
   margin: 0;}
 
+ul#menu li
+{ float: left;
+  padding: 0 0 0 9px;
+  list-style: none;
+  margin: 8px 4px 0 4px;}
+
+ul#menu li a
+{ font: normal 100% 'trebuchet ms', sans-serif;
+  display: block; 
+  float: left; 
+  height: 20px;
+  padding: 6px 20px 5px 20px;
+  text-align: center;
+  color: #FFF;
+  text-decoration: none;
+  background: #5E4238;} 
+
+ul#menu li.selected a
+{ height: 20px;
+  padding: 6px 20px 5px 11px;}
+
+ul#menu li.selected
+{ margin: 8px 4px 0 13px;
+  background: #B48A7C;}
+
+ul#menu li.selected a, ul#menu li.selected a:hover
+{ background: #B48A7C;
+  color: #FFF;}
+
+ul#menu li a:hover
+{ color: #B48A7C;}
+
 
  
 
