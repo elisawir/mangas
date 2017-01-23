@@ -53,13 +53,13 @@ ol li
 
 
 .col-sm-8 
-{float: none;
+{float: right;
  background: red;
  text-align: center; 
 }
 
 .col-sm-4
-{float: none;
+{float: left;
  background: blue;
  text-align: center; 
 }
