@@ -50,19 +50,16 @@ ol li
 { margin: 0 0 11px 0;}
 
 
-.center
-{ display: block;
-  text-align: center;
-  margin: 20px auto;}
+
 
 .col-sm-8 
-{float: right;
+{float: none;
  background: red;
  text-align: center; 
 }
 
 .col-sm-4
-{float: left;
+{float: none;
  background: blue;
  text-align: center; 
 }
