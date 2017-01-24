@@ -56,14 +56,14 @@ ol li
 {float: right;
  background: #CECEF6;
  text-align: center; 
-  height:100%;
+  height:auto;
 }
 
 .col-sm-3
 {float: left;
  background: #5858FA;
  text-align: center; 
- height: 100%;
+ height: auto;
 }
 
 .col-sm-12
