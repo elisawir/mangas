@@ -54,13 +54,13 @@ ol li
 
 .col-sm-9 
 {float: right;
- background: red;
+ background: #CECEF6;
  text-align: center; 
 }
 
 .col-sm-3
 {float: left;
- background: blue;
+ background: #5858FA;
  text-align: center; 
 }
 
