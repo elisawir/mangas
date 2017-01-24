@@ -56,12 +56,14 @@ ol li
 {float: right;
  background: #CECEF6;
  text-align: center; 
+  height:100%;
 }
 
 .col-sm-3
 {float: left;
  background: #5858FA;
  text-align: center; 
+ height: 100%;
 }
 
 .col-sm-12
@@ -70,7 +72,7 @@ ol li
 
 
 .navbar-fixed-left {
-  width: 140px;
+  width: 250px;
   position: fixed;
   border-radius: 0;
   height: 100%;
